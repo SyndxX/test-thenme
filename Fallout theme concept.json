@@ -178,7 +178,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#db8000"
+      "#ff728c"
     ],
     "TEXT_MUTED": [
       "#4aef98"
@@ -211,13 +211,13 @@
       "#faa61a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#2b2b2b"
+      "#00ff6e"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2b2b2b"
+      "#00ff6e"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
