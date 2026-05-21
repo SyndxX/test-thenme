@@ -13,13 +13,13 @@
       "#5b2a82"
     ],
     "CHAT_BACKGROUND": [
-      "#000900"
+      "#000000"
     ],
     "BACKGROUND_ACCENT": [
       "#4aef98"
     ],
     "BACKGROUND_FLOATING": [
-      "#0a1109"
+      "#000000"
     ],
     "BACKGROUND_MENTIONED": [
       "rgba(114,0,0,0.1)"
@@ -34,7 +34,7 @@
       "#0e0e10"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000900"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000"
@@ -52,7 +52,7 @@
       "#FFFFFF1A"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000900"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
       "#000000"
@@ -64,7 +64,7 @@
       "#0c0c0e"
     ],
     "BG_BASE_PRIMARY": [
-      "#000900"
+      "#000000"
     ],
     "BG_BACKDROP": [
       "#000000b2"
@@ -88,7 +88,7 @@
       "#FFFFFF26"
     ],
     "CARD_PRIMARY_BG": [
-      "#09090b"
+      "#000000"
     ],
     "CARD_SECONDARY_BG": [
       "#000000"
@@ -103,7 +103,7 @@
       "#000000"
     ],
     "EMBED_BACKGROUND": [
-      "#0a1109"
+      "#000000"
     ],
     "HEADER_PRIMARY": [
       "#4aef98"
@@ -166,7 +166,7 @@
       "#7f007b"
     ],
     "STATUS_DANGER_TEXT": [
-      "#000900"
+      "#000000"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
       "#000000"
@@ -178,7 +178,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#000000"
+      "#db8000"
     ],
     "TEXT_MUTED": [
       "#39ff00"
@@ -267,14 +267,14 @@
     "PLUM_13": "#39ff00",
     "PLUM_15": "#4aef98",
     "PLUM_16": "#000000",
-    "PLUM_17": "#000900",
+    "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
-    "PLUM_20": "#000900",
+    "PLUM_20": "#000000",
     "PLUM_21": "#000000",
     "PLUM_22": "#000000",
-    "PLUM_24": "#000900",
-    "PLUM_25": "#000900",
+    "PLUM_24": "#000000",
+    "PLUM_25": "#000000",
     "PRIMARY_100": "#39ff00",
     "PRIMARY_200": "#4aef98",
     "PRIMARY_300": "#4aef98",
@@ -284,7 +284,7 @@
     "PRIMARY_460": "#000000",
     "PRIMARY_500": "#4aef98",
     "PRIMARY_530": "#4aef98",
-    "PRIMARY_600": "#000900",
+    "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_645": "#000000",
     "PRIMARY_660": "#000000",
