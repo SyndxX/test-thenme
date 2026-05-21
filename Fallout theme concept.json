@@ -94,10 +94,10 @@
       "#000000"
     ],
     "CHANNELS_DEFAULT": [
-      "#39ff00"
+      "#4aef98"
     ],
     "CHANNEL_ICON": [
-      "#39ff00"
+      "#4aef98"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#000000"
@@ -109,7 +109,7 @@
       "#4aef98"
     ],
     "HEADER_SECONDARY": [
-      "#39ff00"
+      "#4aef98"
     ],
     "INTERACTIVE_ACTIVE": [
       "#4aef98"
@@ -118,7 +118,7 @@
       "#12d399"
     ],
     "INTERACTIVE_MUTED": [
-      "#39ff00"
+      "#4aef98"
     ],
     "INTERACTIVE_NORMAL": [
       "#4aef98"
@@ -148,7 +148,7 @@
       "#7f007b"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#39ff00"
+      "#4aef98"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#4aef98"
@@ -181,7 +181,7 @@
       "#db8000"
     ],
     "TEXT_MUTED": [
-      "#39ff00"
+      "#4aef98"
     ],
     "TEXT_NORMAL": [
       "#4aef98"
@@ -261,10 +261,10 @@
     "PLUM_3": "#4aef98",
     "PLUM_4": "#4aef98",
     "PLUM_6": "#4aef98",
-    "PLUM_9": "#39ff00",
-    "PLUM_10": "#39ff00",
-    "PLUM_11": "#39ff00",
-    "PLUM_13": "#39ff00",
+    "PLUM_9": "#4aef98",
+    "PLUM_10": "#4aef98",
+    "PLUM_11": "#4aef98",
+    "PLUM_13": "#4aef98",
     "PLUM_15": "#4aef98",
     "PLUM_16": "#000000",
     "PLUM_17": "#000000",
@@ -275,7 +275,7 @@
     "PLUM_22": "#000000",
     "PLUM_24": "#000000",
     "PLUM_25": "#000000",
-    "PRIMARY_100": "#39ff00",
+    "PRIMARY_100": "#4aef98",
     "PRIMARY_200": "#4aef98",
     "PRIMARY_300": "#4aef98",
     "PRIMARY_330": "#4aef98",
@@ -289,7 +289,7 @@
     "PRIMARY_645": "#000000",
     "PRIMARY_660": "#000000",
     "PRIMARY_700": "#0c0c0e",
-    "PRIMARY_730": "#39ff00",
+    "PRIMARY_730": "#4aef98",
     "PRIMARY_800": "#000000",
     "GREEN_260": "#43b581",
     "GREEN_300": "#43b581",
@@ -355,8 +355,8 @@
     "YELLOW_660": "#faa61a",
     "YELLOW_700": "#faa61a",
     "WHITE_500": "#4aef98",
-    "WHITE_630": "#39ff00",
-    "ROLE_DEFAULT": "#39ff00"
+    "WHITE_630": "#4aef98",
+    "ROLE_DEFAULT": "#4aef98"
   },
   "plus": {
     "version": "0",
