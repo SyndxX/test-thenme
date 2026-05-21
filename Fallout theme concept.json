@@ -1,7 +1,7 @@
 {
   "name": "Fallout theme concept",
   "description": "etsts",
-  "version": "3",
+  "version": "4",
   "authors": [
     {
       "name": "Author",
@@ -13,13 +13,13 @@
       "#5b2a82"
     ],
     "CHAT_BACKGROUND": [
-      "#000000"
+      "#000900"
     ],
     "BACKGROUND_ACCENT": [
-      "#1aad00"
+      "#4aef98"
     ],
     "BACKGROUND_FLOATING": [
-      "#0e0c0c"
+      "#0a1109"
     ],
     "BACKGROUND_MENTIONED": [
       "rgba(114,0,0,0.1)"
@@ -34,10 +34,10 @@
       "#0e0e10"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "#000900"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -52,31 +52,31 @@
       "#FFFFFF1A"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000"
+      "#000900"
     ],
     "BACKGROUND_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#101012"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
       "#0c0c0e"
     ],
     "BG_BASE_PRIMARY": [
-      "#000000"
+      "#000900"
     ],
     "BG_BACKDROP": [
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#121214"
+      "#000000"
     ],
     "BG_BASE_TERTIARY": [
-      "#101012"
+      "#000000"
     ],
     "HOME_BACKGROUND": [
-      "#121214"
+      "#000000"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -91,7 +91,7 @@
       "#09090b"
     ],
     "CARD_SECONDARY_BG": [
-      "#0f0f12"
+      "#000000"
     ],
     "CHANNELS_DEFAULT": [
       "#39ff00"
@@ -103,7 +103,7 @@
       "#000000"
     ],
     "EMBED_BACKGROUND": [
-      "#0e0c0c"
+      "#0a1109"
     ],
     "HEADER_PRIMARY": [
       "#4aef98"
@@ -112,7 +112,7 @@
       "#39ff00"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#1aad00"
+      "#4aef98"
     ],
     "INTERACTIVE_HOVER": [
       "#12d399"
@@ -127,19 +127,19 @@
       "rgba(114,0,0,0.1)"
     ],
     "MENTION_FOREGROUND": [
-      "#1aad00"
+      "#4aef98"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#101012"
+      "#000000"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#121214"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#101012"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#101012"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#FFFFFF1A"
@@ -166,19 +166,19 @@
       "#7f007b"
     ],
     "STATUS_DANGER_TEXT": [
-      "#000000"
+      "#000900"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#121214"
+      "#000000"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#121214"
+      "#000000"
     ],
     "POLLS_VICTOR_FILL": [
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#1aad00"
+      "#000000"
     ],
     "TEXT_MUTED": [
       "#39ff00"
@@ -187,16 +187,16 @@
       "#4aef98"
     ],
     "TEXT_PRIMARY": [
-      "#34a300"
+      "#4aef98"
     ],
     "TEXT_SECONDARY": [
-      "#954fc4"
+      "#60bb54"
     ],
     "BG_MOD_FAINT": [
       "#FFFFFF12"
     ],
     "KEYBOARD": [
-      "#101012"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
       "#43b58133"
@@ -240,57 +240,57 @@
     "BLUE_660": "#5a76a8",
     "BLUE_700": "#5a76a8",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#1aad00",
-    "BRAND_260": "#1aad00",
-    "BRAND_300": "#1aad00",
-    "BRAND_330": "#1aad00",
-    "BRAND_345": "#1aad00",
-    "BRAND_360": "#1aad00",
-    "BRAND_400": "#1aad00",
-    "BRAND_430": "#1aad00",
-    "BRAND_460": "#1aad00",
-    "BRAND_500": "#1aad00",
-    "BRAND_530": "#1aad00",
+    "BRAND_200": "#4aef98",
+    "BRAND_260": "#4aef98",
+    "BRAND_300": "#4aef98",
+    "BRAND_330": "#4aef98",
+    "BRAND_345": "#4aef98",
+    "BRAND_360": "#4aef98",
+    "BRAND_400": "#4aef98",
+    "BRAND_430": "#4aef98",
+    "BRAND_460": "#4aef98",
+    "BRAND_500": "#4aef98",
+    "BRAND_530": "#4aef98",
     "BRAND_560": "#12d399",
-    "BRAND_600": "#1aad00",
-    "BRAND_630": "#1aad00",
-    "BRAND_660": "#1aad00",
-    "BRAND_700": "#1aad00",
+    "BRAND_600": "#4aef98",
+    "BRAND_630": "#4aef98",
+    "BRAND_660": "#4aef98",
+    "BRAND_700": "#4aef98",
     "BRAND_730": "#4aef98",
     "PLUM_1": "#4aef98",
-    "PLUM_3": "#1aad00",
+    "PLUM_3": "#4aef98",
     "PLUM_4": "#4aef98",
     "PLUM_6": "#4aef98",
     "PLUM_9": "#39ff00",
     "PLUM_10": "#39ff00",
     "PLUM_11": "#39ff00",
     "PLUM_13": "#39ff00",
-    "PLUM_15": "#1aad00",
-    "PLUM_16": "#121214",
-    "PLUM_17": "#000000",
-    "PLUM_18": "#101012",
-    "PLUM_19": "#121214",
-    "PLUM_20": "#000000",
-    "PLUM_21": "#121214",
-    "PLUM_22": "#121214",
-    "PLUM_24": "#000000",
-    "PLUM_25": "#000000",
+    "PLUM_15": "#4aef98",
+    "PLUM_16": "#000000",
+    "PLUM_17": "#000900",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000900",
+    "PLUM_21": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_24": "#000900",
+    "PLUM_25": "#000900",
     "PRIMARY_100": "#39ff00",
     "PRIMARY_200": "#4aef98",
-    "PRIMARY_300": "#1aad00",
+    "PRIMARY_300": "#4aef98",
     "PRIMARY_330": "#4aef98",
-    "PRIMARY_360": "#1aad00",
+    "PRIMARY_360": "#4aef98",
     "PRIMARY_400": "#12d399",
-    "PRIMARY_460": "#121214",
-    "PRIMARY_500": "#1aad00",
-    "PRIMARY_530": "#1aad00",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#121214",
-    "PRIMARY_645": "#101012",
-    "PRIMARY_660": "#121214",
+    "PRIMARY_460": "#000000",
+    "PRIMARY_500": "#4aef98",
+    "PRIMARY_530": "#4aef98",
+    "PRIMARY_600": "#000900",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_645": "#000000",
+    "PRIMARY_660": "#000000",
     "PRIMARY_700": "#0c0c0e",
     "PRIMARY_730": "#39ff00",
-    "PRIMARY_800": "#0f0f12",
+    "PRIMARY_800": "#000000",
     "GREEN_260": "#43b581",
     "GREEN_300": "#43b581",
     "GREEN_330": "#43b581",
@@ -306,9 +306,9 @@
     "GREEN_630": "#43b581",
     "GREEN_660": "#43b581",
     "GREEN_700": "#43b581",
-    "GUILD_BOOSTING_PINK": "#1aad00",
-    "GUILD_BOOSTING_PURPLE": "#1aad00",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#1aad00",
+    "GUILD_BOOSTING_PINK": "#4aef98",
+    "GUILD_BOOSTING_PURPLE": "#4aef98",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#4aef98",
     "RED_260": "#7f007b",
     "RED_300": "#7f007b",
     "RED_330": "#7f007b",
